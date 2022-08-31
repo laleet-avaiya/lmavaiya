@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/laleetavaiya/book-session.svg)](https://www.codementor.io/@laleetavaiya?refer=badge)
-
 <!--
 **lmavaiya/lmavaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
